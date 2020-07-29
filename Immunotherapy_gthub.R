@@ -1,3 +1,8 @@
+##################################################
+########### Mithat Yavuzarslan - 2018 ############
+########### mail: mithatyavuzarslan@gmail.com#####
+##################################################
+
 install.packages("readxl")
 install.packages("corrplot")
 library(readxl)

@@ -1,3 +1,32 @@
+##################################################
+########### Mithat Yavuzarslan - 2018 ############
+########### mail: mithatyavuzarslan@gmail.com#####
+##################################################
+
+##### Dataset retrieved from UCI Machine Learning Repository: ########
+#Source:
+
+#Name: Fahime Khozeimeh, MD
+#email: fahime.khozeime '@' yahoo.com
+#institution: Faculty of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.
+
+#Name: Pouran Layegh, Professor of Dermatology
+#email: layeghpo '@' mums.ac.ir
+#institution: Mashhad University of Medical Sciences, Mashhad, Iran
+#website: http://research.mums.ac.ir/webdocument/load.action?webdocument_code=8001&masterCode=8000703
+
+#Name:Roohallah Alizadehsani, PhD student
+#email: alizadeh_roohallah '@' yahoo.com
+#institution: Institute for Intelligent Systems Research and Innovation (IISRI), Deakin University, Victoria 3217, Australia.
+#website: http://ce.sharif.ir/~ralizadeh/
+
+#Name: Mohamad Roshanzamir, PhD candidate
+#email: mohamad.roshanzamir '@' ec.iut.ac.ir
+#institution: Electrical and Computer Engineering, Isfahan University of Technology, Isfahan, Iran.
+###################################################
+
+
+
 install.packages("rpart")
 install.packages("rpart.plot")
 install.packages("readxl")
